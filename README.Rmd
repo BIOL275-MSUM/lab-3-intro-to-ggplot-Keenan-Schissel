@@ -1,6 +1,6 @@
 ---
 title: "Lab 3: Introduction to ggplot"
-author: "___"
+author: "Keenan Schissel"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
@@ -13,13 +13,17 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+-Use the Layered grammer of graphics
+
+- Create a graph showing the distribution of a single variable
+
+- Set the image width for an R markdown code chunk
 
 ## Repository contents
 
 The repository contains the following scripts:
 
 - [Lab Report 3](lab-report.md)
-- ___
+- [Tutorial Walkthrough](Bird Bar Graph.R)
+- [R Script Lab Report](Fireflies.R)
 
