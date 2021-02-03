@@ -12,7 +12,7 @@ MSUM.
 
 The objectives of this lab are:
 
-\-Use the Layered grammer of graphics
+  - Use the Layered grammer of graphics
 
   - Create a graph showing the distribution of a single variable
 

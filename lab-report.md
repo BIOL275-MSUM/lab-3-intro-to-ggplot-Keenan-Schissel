@@ -90,9 +90,9 @@ I chose a Bar graph because the dataset categorical not numerical
 
 ## Links to peer review
 
-I reviewed Phil's lab report at this URL: \_\_\_
+I reviewed Phil's lab report at this URL: https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-Hagen43
 
-Brett Vetter reviewed my lab report at this URL: \_\_\_
+Phil Hagen reviewed my lab report at this URL: https://github.com/BIOL275-MSUM/lab-3-intro-to-ggplot-Keenan-Schissel
 
 ## Session Info
 
